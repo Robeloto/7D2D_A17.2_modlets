@@ -1,5 +1,4 @@
-
-RobelotoCustomZombies MODLET for 7 days to die.
+My modlets for 7 days to die.
 
 Current Mod Version: 1.0
 
